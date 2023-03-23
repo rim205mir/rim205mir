@@ -15,4 +15,8 @@
 ![TESTRAIL](https://img.shields.io/badge/-TESTRAIL-090909?style=for-the-badge&logo=TESTRAIL&logoColor)
 ![GIT](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=GIT&logoColor)
 
-Follow Me
+### Follow Me
+[![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-090909?style=for-the-badge&logo=TELEGRAM&logoColor)](https://t.me/RimMir2)
+[![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-090909?style=for-the-badge&logo=LINKEDIN&logoColor)](https://www.linkedin.com/in/rayanmukhametzyanov/)
+[![HABR](https://img.shields.io/badge/-HABR-090909?style=for-the-badge&logo=HABR&logoColor)](https://career.habr.com/rayan07)
+[![VKONTAKTE](https://img.shields.io/badge/-VKONTAKTE-090909?style=for-the-badge&logo=VK&logoColor=4F7DB3)](https://vk.com/rim2005mir)
