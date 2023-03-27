@@ -17,13 +17,13 @@
 
 ### Testing documentation
 
+- [SQL Queries](https://github.com/rim205mir/SQL-Queries)
+- [Test Plans](https://github.com/rim205mir/Test-Plans)
+- [Test Reports](https://github.com/rim205mir/Test-Reports)
+- [Postman Collections](https://github.com/rim205mir/Postman-Collections)
 - [Checklists](https://github.com/rim205mir/Checklists)
 - [Test-Suites and Test-Cases](https://github.com/rim205mir/Test-Suites-and-Test-Cases)
 - [Bug-Reports](https://github.com/rim205mir/Bug-Reports)
-- [SQL Queries](https://github.com/rim205mir/SQL-Queries)
-- [Postman Collections](https://github.com/rim205mir/Postman-Collections)
-- [Test Plans](https://github.com/rim205mir/Test-Plans)
-- [Test Reports](https://github.com/rim205mir/Test-Reports)
 
 ### Follow Me
 [![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-090909?style=for-the-badge&logo=TELEGRAM&logoColor)](https://t.me/RimMir2)
