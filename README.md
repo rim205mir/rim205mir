@@ -31,3 +31,5 @@
 [![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-090909?style=for-the-badge&logo=LINKEDIN&logoColor)](https://www.linkedin.com/in/rayanmukhametzyanov/)
 [![HABR](https://img.shields.io/badge/-HABR-090909?style=for-the-badge&logo=HABR&logoColor)](https://career.habr.com/rayan07)
 [![VKONTAKTE](https://img.shields.io/badge/-VKONTAKTE-090909?style=for-the-badge&logo=VK&logoColor=4F7DB3)](https://vk.com/rim2005mir)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rim205mir&show_icons=true&theme=radical)
