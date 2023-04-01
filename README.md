@@ -14,6 +14,7 @@
 ![VMWARE](https://img.shields.io/badge/-VMWARE-090909?style=for-the-badge&logo=VMWARE&logoColor)
 ![TESTRAIL](https://img.shields.io/badge/-TESTRAIL-090909?style=for-the-badge&logo=TESTRAIL&logoColor)
 ![GIT](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=GIT&logoColor)
+![KIBANA](https://img.shields.io/badge/-KIBANA-090909?style=for-the-badge&logo=KIBANA&logoColor)
 
 ### Testing documentation
 
